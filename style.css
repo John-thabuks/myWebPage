@@ -68,7 +68,7 @@ body{
     font-weight: 700;
 }
 .home-content h3:nth-last-of-type(2){
-    margin-bottom: 30px;
+    margin-bottom: 30;
 }
 .home-content h3 span{
     color: #0ef;
